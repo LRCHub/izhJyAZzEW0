@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "TOMODACHI",
+  "base_artist": "レトロリロン",
+  "createdAt": "2025-12-22T15:36:50.306876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Tomodachi_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomodachi (ft. Nariaki Obukuro) [ともだち (ft. 小袋成彬)]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Tomodachi_(ft._Nariaki_Obukuro)_[ともだち_(ft._小袋成彬)]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomodachi [ともだち]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/03_Tomodachi_[ともだち]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomodachi (ともだち)",
+      "artist": "Hikaru Utada & Nariaki Obukuro",
+      "has_synced": true,
+      "path": "select/04_Tomodachi_(ともだち)_Hikaru_Utada_&_Nariaki_Obukuro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "KOHH feat. LIL KOHH",
+      "has_synced": false,
+      "path": "select/05_Tomodachi_KOHH_feat._LIL_KOHH.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomodachi (feat. LIL KOHH)",
+      "artist": "Kohh;LIL KOHH",
+      "has_synced": false,
+      "path": "select/06_Tomodachi_(feat._LIL_KOHH)_Kohh;LIL_KOHH.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomodachi (feat. LIL KOHH)",
+      "artist": "Kohh",
+      "has_synced": false,
+      "path": "select/07_Tomodachi_(feat._LIL_KOHH)_Kohh.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tomodachi (feat. Terrell Morris)",
+      "artist": "Milk & Bone",
+      "has_synced": true,
+      "path": "select/08_Tomodachi_(feat._Terrell_Morris)_Milk_&_Bone.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "Milk & Bone",
+      "has_synced": false,
+      "path": "select/09_Tomodachi_Milk_&_Bone.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "DADARAY",
+      "has_synced": false,
+      "path": "select/10_Tomodachi_DADARAY.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomodachi no Uta",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/11_Tomodachi_no_Uta_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomodachi (feat. SHO-Sensei!!)",
+      "artist": "YUNG LIXO feat. SHO-SENSEI!!",
+      "has_synced": true,
+      "path": "select/12_Tomodachi_(feat._SHO-Sensei!!)_YUNG_LIXO_feat._SHO-SENSEI!!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tomodachi (ft. SHO-Sensei!!)",
+      "artist": "YUNG LIXO",
+      "has_synced": true,
+      "path": "select/13_Tomodachi_(ft._SHO-Sensei!!)_YUNG_LIXO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tomodachi (feat. SHO-Sensei!!)",
+      "artist": "Yung Lixo",
+      "has_synced": true,
+      "path": "select/14_Tomodachi_(feat._SHO-Sensei!!)_Yung_Lixo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "TOMODACHI BIG FRIEND - EXTENDED MIX",
+      "artist": "DOMINO",
+      "has_synced": false,
+      "path": "select/15_TOMODACHI_BIG_FRIEND_-_EXTENDED_MIX_DOMINO.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tomodachi Big Friend",
+      "artist": "Domino",
+      "has_synced": false,
+      "path": "select/16_Tomodachi_Big_Friend_Domino.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kimiwa Tomodachi",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/17_Kimiwa_Tomodachi_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "YUNG LIXO feat. SHO-SENSEI!!",
+      "has_synced": true,
+      "path": "select/18_Tomodachi_YUNG_LIXO_feat._SHO-SENSEI!!.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Tomodachi",
+      "artist": "Yung Lixo",
+      "has_synced": true,
+      "path": "select/19_Tomodachi_Yung_Lixo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOMODACHI",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_TOMODACHI_レトロリロン.txt"
+    }
+  ]
+}
